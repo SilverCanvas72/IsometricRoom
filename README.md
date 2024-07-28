@@ -36,3 +36,17 @@ Finished the 3x3 and made and started a 2x2 and pyraminx.
 ![alt text](image-13.png)
 ![alt text](image-14.png)
 ![alt text](image-15.png)
+
+## Hour 4:
+
+Made a skewb and started a megaminx
+
+### Progress:
+
+![alt text](image-16.png)
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
+![alt text](image-22.png)
