@@ -50,3 +50,18 @@ Made a skewb and started a megaminx
 ![alt text](image-20.png)
 ![alt text](image-21.png)
 ![alt text](image-22.png)
+
+## Hour 5:
+
+Finished the megaminx, made a new shelf and then made some books for the shelf
+
+### Progress:
+
+![alt text](image-23.png)
+![alt text](image-24.png)
+![alt text](image-25.png)
+![alt text](image-26.png)
+![alt text](image-27.png)
+![alt text](image-28.png)
+![alt text](image-29.png)
+![alt text](image-30.png)
