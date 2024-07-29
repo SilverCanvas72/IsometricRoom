@@ -3,3 +3,4 @@ Hour4.stl filter=lfs diff=lfs merge=lfs -text
 Hour5.stl filter=lfs diff=lfs merge=lfs -text
 Hour6.stl filter=lfs diff=lfs merge=lfs -text
 Hour7.stl filter=lfs diff=lfs merge=lfs -text
+Hour8.stl filter=lfs diff=lfs merge=lfs -text

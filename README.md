@@ -90,3 +90,17 @@ Made a bed with multiple layers of sheets and made a heart and square pillow.
 ![alt text](image-38.png)
 ![alt text](image-39.png)
 ![alt text](image-40.png)
+
+## Hour 8:
+
+Made another pillow for the bed, made a set of drawers and a lamp and book to go on it. Then I made a desk and started make a container to put pens in.
+
+### Progress:
+
+![alt text](image-41.png)
+![alt text](image-42.png)
+![alt text](image-43.png)
+![alt text](image-44.png)
+![alt text](image-45.png)
+![alt text](image-46.png)
+![alt text](image-47.png)
