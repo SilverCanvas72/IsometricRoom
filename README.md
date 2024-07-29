@@ -78,3 +78,15 @@ Made a pot plant and an arm chair
 ![alt text](image-32.png)
 ![alt text](image-34.png)
 ![alt text](image-35.png)
+
+## Hour 7:
+
+Made a bed with multiple layers of sheets and made a heart and square pillow.
+
+### Progress:
+
+![alt text](image-36.png)
+![alt text](image-37.png)
+![alt text](image-38.png)
+![alt text](image-39.png)
+![alt text](image-40.png)
