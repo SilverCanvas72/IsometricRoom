@@ -104,3 +104,16 @@ Made another pillow for the bed, made a set of drawers and a lamp and book to go
 ![alt text](image-45.png)
 ![alt text](image-46.png)
 ![alt text](image-47.png)
+
+## HOur 9:
+
+Made some pens and pu them in the pot, made a monitor and a book, made a floor mat and started making a monitor.
+
+### Progress:
+
+![alt text](image-48.png)
+![alt text](image-49.png)
+![alt text](image-50.png)
+![alt text](image-51.png)
+![alt text](image-52.png)
+![alt text](image-53.png)
