@@ -117,3 +117,13 @@ Made some pens and pu them in the pot, made a monitor and a book, made a floor m
 ![alt text](image-51.png)
 ![alt text](image-52.png)
 ![alt text](image-53.png)
+
+## Hour 10:
+
+Made a chair, A lamp, Mats and made the window a better size
+
+### Progress:
+
+![alt text](image-54.png)
+![alt text](image-55.png)
+![alt text](image-56.png)
