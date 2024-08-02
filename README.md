@@ -1,3 +1,9 @@
+## Link to STL:
+https://drive.google.com/file/d/1wKqyZhWsD-6nJr1ygv7LJhbUv5IvNZ85/view?usp=drive_link
+
+## Link to BLEND FILE:
+https://drive.google.com/file/d/1jtSxfvxVA6_oQ_4e2TI78FMHAL1Xw-zT/view?usp=drive_link
+
 # IsometricRoom
 
 ## Hour 1

@@ -1,9 +1,0 @@
-Hour3.stl filter=lfs diff=lfs merge=lfs -text
-Hour4.stl filter=lfs diff=lfs merge=lfs -text
-Hour5.stl filter=lfs diff=lfs merge=lfs -text
-Hour6.stl filter=lfs diff=lfs merge=lfs -text
-Hour7.stl filter=lfs diff=lfs merge=lfs -text
-Hour8.stl filter=lfs diff=lfs merge=lfs -text
-Room.blend filter=lfs diff=lfs merge=lfs -text
-Room.blend1 filter=lfs diff=lfs merge=lfs -text
-Hour10.stl filter=lfs diff=lfs merge=lfs -text
